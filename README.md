@@ -5,5 +5,4 @@ Created a website using HTML/CSS, JavaScript, and d3.js, to create a table that 
 
 ![Head](/Images/Web1.png)
 ![Image](/Images/Web2.png)
-![Image2](/Images/Web3.png)
 ![Image3](/Images/Web4.png) 
